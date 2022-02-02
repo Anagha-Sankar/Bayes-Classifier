@@ -12,6 +12,8 @@
 
 - Usage
 
+- Credit
+
   #### Description
 
   Bayesian Classifier uses the Bayes Theorem. Bayes Classifier is one of the simple and most effective Classification algorithms. It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
@@ -105,3 +107,7 @@
   The source code (jupyter notebook) is present in the 'src' folder. The 4 input band images(R,G,B,I) are band1.jpg, band2.jpg, band3.jpg and band4.jpg. Coordinates of river and non-river for training pixel are in the files 'River' and 'NonRiver'. In the 'Output_Images' folder, the three output images for different Prior Probabilities are included.
 
   Project.md explains the source code.
+
+ #### Credit
+ To record coordinates,
+ https://www.mobilefish.com/services/record_mouse_coordinates/record_mouse_coordinates.php
